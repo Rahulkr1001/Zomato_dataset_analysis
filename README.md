@@ -1,5 +1,3 @@
-# Zomato_dataset_analysis
-
 #  Zomato Dataset Analysis
 This repository contains an analysis of the Zomato restaurant dataset. The analysis is performed using Python and several data science libraries including Pandas, Matplotlib, and Seaborn. The notebook includes the following key steps:
 
